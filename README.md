@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Christina.
-- 🌱 I’m currently learning HTML, CSS, and JS.
-- 💞️ I’m looking to collaborate on everything! 
-- 📫 You can drop a line at wu_christina@outlook.com.
+- 🌱 I’m currently learning JS.
 - :v: When I am not coding, you can find me knitting or sewing clothes.
 
 <!---
